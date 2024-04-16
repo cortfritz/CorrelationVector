@@ -1,4 +1,3 @@
-
 # Correlation Vector
 
 ## Background
@@ -24,11 +23,17 @@ The standard is widely used internally at Microsoft for first party applications
 
 ## Reference Implementations
 
+### Microsoft
+
 - [Cpp](https://github.com/Microsoft/CorrelationVector-Cpp) \(C\+\+\)
 - [CSharp](https://github.com/Microsoft/CorrelationVector-CSharp) \(C\#\)
 - [Go](https://github.com/Microsoft/CorrelationVector-Go)
 - [Java](https://github.com/Microsoft/CorrelationVector-Java)
 - [JavaScript](https://github.com/Microsoft/CorrelationVector-JavaScript)
+
+### Community
+
+- [Elixir](https://github.com/seamlyapp/ex_correlation_vector)
 
 ## Future Roadmap
 
@@ -36,7 +41,7 @@ TBD
 
 # Contributing
 
-This project welcomes contributions and suggestions.  Most contributions require you to agree to a
+This project welcomes contributions and suggestions. Most contributions require you to agree to a
 Contributor License Agreement (CLA) declaring that you have the right to, and actually do, grant us
 the rights to use your contribution. For details, visit https://cla.microsoft.com.
 
